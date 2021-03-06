@@ -13,8 +13,8 @@ One of my main goals is to become a JS developer. The second goal is to buy a ca
 * VueJs|ReactJs(coming soon)
 * Git
 ## Code examples:
-* Not yet
+Not yet
 ## Education:
-* Higher education (BSUIR)
+Higher education (BSUIR)
 ## English:
-* Pre-Intermediate
+Pre-Intermediate

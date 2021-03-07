@@ -1,0 +1,29 @@
+body {
+    max-width: 300px;
+    margin:0 auto;
+    padding:0;
+}
+
+main {
+    min-width: 300px;
+    max-width: 600px;
+}
+
+figure {
+    margin: 0 auto;
+}
+
+figcaption {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+h2,
+p,
+li,
+figcaption {
+    font-family: 'ABeeZee', sans-serif;
+}

@@ -3,13 +3,16 @@ body {
     margin:0 auto;
     padding:0;
 }
+
 main {
     min-width: 300px;
     max-width: 600px;
 }
+
 figure {
     margin: 0 auto;
 }
+
 figcaption {
     text-align: center;
 }
